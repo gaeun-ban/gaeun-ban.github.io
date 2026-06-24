@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile_pic_edited.jpg"
+  avatar           : "/images/profile.png"
   name             : "Gaeun Ban"
   pronouns         : "She/They"  
   bio              : "Ph.D. student in the Department of Government at the University of Texas at Austin"
